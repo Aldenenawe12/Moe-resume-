@@ -1,0 +1,28 @@
+body{
+    background-color: darkgreen;
+    background-repeat:no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+   
+}
+.topnavbar{
+    overflow: auto;
+    font-size: large;
+
+}
+
+.topnavbar a {
+    float: left;    
+    display: flex;
+    color: rgb(12, 12, 11);
+    text-align: center;
+    padding: 14px  16px;
+    text-decoration:none;
+
+}
+.topnavbar a:hover{
+    background-color: wheat;
+}
+
+
